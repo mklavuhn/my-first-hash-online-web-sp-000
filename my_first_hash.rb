@@ -1,5 +1,6 @@
 def my_hash
-  my_hash = {fruit => apple
+  my_hash = {"fruit" => "apple"}
+end
 
   
 end
